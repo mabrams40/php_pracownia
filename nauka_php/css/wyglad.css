@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+
+table.tb{
+    border: 2px solid orange;
+}
+
+td, th{
+    border: 1px solid orange;
+    background-color: darkorange;
+    padding: 10px;
+}
